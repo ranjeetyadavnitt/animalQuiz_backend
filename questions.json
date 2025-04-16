@@ -1,0 +1,92 @@
+[
+  {
+    "question": "Which animal is this?",
+    "image": "lion.jpg",
+    "options": ["Cheetah", "Lion", "Tiger", "Leopard"],
+    "answer": "Lion"
+  },
+  {
+    "question": "Which animal is this?",
+    "image": "elephant.jpg",
+    "options": ["Giraffe", "Elephant", "Rhinoceros", "Hippopotamus"],
+    "answer": "Elephant"
+  },
+  {
+    "question": "Which animal is this?",
+    "image": "panda.jpg",
+    "options": ["Koala", "Polar Bear", "Panda", "Grizzly Bear"],
+    "answer": "Panda"
+  },
+  {
+    "question": "Which animal is this?",
+    "image": "penguin.png",
+    "options": ["Puffin", "Seagull", "Penguin", "Albatross"],
+    "answer": "Penguin"
+  },
+  {
+    "question": "Which animal is this?",
+    "image": "dolphin.jpg",
+    "options": ["Whale", "Dolphin", "Seal", "Shark"],
+    "answer": "Dolphin"
+  },
+  {
+    "question": "Which animal is this?",
+    "image": "zebra.jpg",
+    "options": ["Horse", "Zebra", "Giraffe", "Antelope"],
+    "answer": "Zebra"
+  },
+  {
+    "question": "Which animal is this?",
+    "image": "gorilla.jpg",
+    "options": ["Chimpanzee", "Gorilla", "Baboon", "Orangutan"],
+    "answer": "Gorilla"
+  },
+  {
+    "question": "Which animal is this?",
+    "image": "kangaroo.jpg",
+    "options": ["Wallaby", "Wombat", "Koala", "Kangaroo"],
+    "answer": "Kangaroo"
+  },
+  {
+    "question": "Which animal is this?",
+    "image": "owl.jpg",
+    "options": ["Falcon", "Hawk", "Owl", "Eagle"],
+    "answer": "Owl"
+  },
+  {
+    "question": "Which animal is this?",
+    "image": "fox.jpg",
+    "options": ["Coyote", "Wolf", "Fox", "Jackal"],
+    "answer": "Fox"
+  },
+  {
+    "question": "Which animal is this?",
+    "image": "koala.jpg",
+    "options": ["Raccoon", "Sloth", "Lemur", "Koala"],
+    "answer": "Koala"
+  },
+  {
+    "question": "Which animal is this?",
+    "image": "tiger.jpg",
+    "options": ["Tiger", "Jaguar", "Leopard", "Lion"],
+    "answer": "Tiger"
+  },
+  {
+    "question": "Which animal is this?",
+    "image": "turtle.jpg",
+    "options": ["Turtle", "Crocodile", "Tortoise", "Lizard"],
+    "answer": "Turtle"
+  },
+  {
+    "question": "Which animal is this?",
+    "image": "giraffe.jpg",
+    "options": ["Camel", "Antelope", "Zebra", "Giraffe"],
+    "answer": "Giraffe"
+  },
+  {
+    "question": "Which animal is this?",
+    "image": "hippo.jpg",
+    "options": ["Rhinoceros", "Hippopotamus", "Water Buffalo", "Elephant"],
+    "answer": "Hippopotamus"
+  }
+]
