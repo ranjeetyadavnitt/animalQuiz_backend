@@ -19,7 +19,7 @@
   },
   {
     "question": "Which animal is this?",
-    "image": "penguin.png",
+    "image": "penguin.jpg",
     "options": ["Puffin", "Seagull", "Penguin", "Albatross"],
     "answer": "Penguin"
   },
